@@ -13,7 +13,7 @@ namespace EXAMEN_FINAL_PROGRAMACION___
 
 
         //Key del bot
-        private static readonly TelegramBotClient Bot = new TelegramBotClient("1884826264:AAGluSQNedTMo6z9-6FQB7XKkHL8rsHAsGM");
+        private static readonly TelegramBotClient Bot = new TelegramBotClient("API token aqui");
         static void Main(string[] args)
         {
             
